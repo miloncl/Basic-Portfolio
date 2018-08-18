@@ -1,0 +1,30 @@
+#PageTop {
+    background-color: #ffffff;
+    padding: 50px 650px 50px 650px;
+}
+
+#Name {
+    font-size: 28px;
+    float: left;
+    display: inline-block;
+    background-color: #4aaaa5;
+    text-align: left;
+    position: relative;
+    bottom: 100;
+    right: 2;
+}
+
+#a1 {
+    display: inline-block;
+    float: right;
+}
+
+#a2{
+    display: inline-block;
+    float: right;
+}
+
+#a3 {
+    display: inline-block;
+    float: right;
+}
