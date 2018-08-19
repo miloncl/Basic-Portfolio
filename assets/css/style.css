@@ -35,7 +35,7 @@
     float: right;
     position: absolute;
     bottom: 0;
-    right: 330px;
+    right: 325px;
     padding-bottom: 20px;
 }
 
@@ -44,7 +44,7 @@
     float: right;
     position: absolute;
     bottom: 0;
-    right: 270px;
+    right: 257px;
     padding-bottom: 20px;
 }
 
@@ -60,6 +60,7 @@
     border-style: solid;
     border-color: #cccccc;
     border-width: medium;
+    width: 960px;
 
 }
 
@@ -110,9 +111,11 @@ ol{
 footer {
     position: fixed;
     bottom: 0;
-    padding: 20px 667px 20px 668px;
+    left:0;
+    padding: 10px 680px 10px 675px;
     background-color: #666666;
     border-top: 6px solid #4aaaa5;
+    font-size: 12px;
 }
 
 #Contact {
@@ -127,6 +130,7 @@ footer {
     border-style: solid;
     border-color: #cccccc;
     border-width: medium;
+    width: 960px;
 }
 
 label {
@@ -162,3 +166,197 @@ input[type=submit] {
     margin-bottom: 20px;
 }
 
+#Portfolio {
+    background-color: #ffffff;
+    margin-left: 200px;
+    margin-right: 220px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    padding-top: 20px;
+    overflow: auto;
+    position: relative;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: medium;
+    padding-bottom: 10px;
+    width: 960px;
+}
+
+#Hang img{
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+#Hang {
+    position: relative;
+    display: inline-block;
+}
+
+#Hangman {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 5px 70px;
+}
+
+#RPG img{
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+#RPG {
+    position: relative;
+    display: inline-block;
+}
+
+#RpgText {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 5px 67px;
+    font-size: 15px;
+}
+
+#Trivia img{
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#Trivia {
+    position: relative;
+    display: inline-block;
+}
+
+#TriviaGame {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 5px 65px;
+    font-size: 15px;
+}
+
+#RIW img{
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#RIW {
+    position: relative;
+    display: inline-block;
+}
+
+#Rutgers {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 10px 57px;
+    font-size: 10px;
+}
+
+#RPC img{
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#RPC {
+    position: relative;
+    display: inline-block;
+}
+
+#Rock {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 5px 60px;
+    font-size: 10px
+}
+
+#a1:link{
+    color: gray;
+    text-decoration: none;
+}
+
+#a1:visited{
+    color: gray;
+    text-decoration: none;
+}
+
+#a1:hover{
+    font-size: 20px;
+    color: blue;
+}
+
+#a2:link{
+    color: gray;
+    text-decoration: none;
+}
+
+#a2:visited{
+    color: gray;
+    text-decoration: none;
+}
+
+#a2:hover{
+    font-size: 20px;
+    color: blue;
+}
+
+#a3:link{
+    color: gray;
+    text-decoration: none;
+}
+
+#a3:visited{
+    color: gray;
+    text-decoration: none;
+}
+
+#a3:hover{
+    font-size: 20px;
+    color: blue;
+}
+
+h {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;.
+}
